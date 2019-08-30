@@ -1,0 +1,8 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "i-icon": "../../../static/iview/icon/index",
+    "i-input": "../../../static/iview/input/index"
+  }
+}

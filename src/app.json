@@ -1,0 +1,51 @@
+{
+  "pages": [
+    "pages/Login/main",
+    "pages/tixian/main",
+    "pages/home/main",
+    "pages/addBlank/main",
+    "pages/resetPassword/main",
+    "pages/bangPhone/main",
+    "pages/my/main",
+    "pages/pingTuan/main",
+    "pages/groupRecords/main",
+    "pages/groupDetail1/main",
+    "pages/hexiao/main",
+    "pages/newPingTuan/main",
+    "pages/paySuccess1/main",
+    "pages/balance/main",
+    "pages/Write-off/main",
+    "pages/tixianDetail/main",
+    "pages/buyHistory/main",
+    "pages/pay1/main",
+    "pages/groupList1/main",
+    "pages/authorization/main",
+    "pages/groupDetail/main",
+    "pages/paySuccess/main",
+    "pages/pay/main",
+    "pages/groupList/main",
+    "pages/PersonalCenter/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#0086F8",
+    "navigationBarTitleText": "美哒哒",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "selectedColor": "#ff2d4a",
+    "list": [{
+        "pagePath": "pages/home/main",
+        "text": "首页",
+        "iconPath": "static/images/icon_category@3x.png",
+        "selectedIconPath": "static/images/icon_category_active@3x.png"
+      },
+      {
+        "pagePath": "pages/my/main",
+        "text": "我的",
+        "iconPath": "static/images/icon_home@3x.png",
+        "selectedIconPath": "static/images/icon_home_active@3x.png"
+      }
+    ]
+  }
+}

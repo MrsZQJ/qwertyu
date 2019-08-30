@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "拼团记录",
+  "usingComponents": {
+    "i-icon": "../../../static/iview/icon/index"
+  }
+}

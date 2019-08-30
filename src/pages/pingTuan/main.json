@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "拼团",
+  "usingComponents": {
+    "i-icon": "../../../static/iview/icon/index",
+    "i-cell-group": "../../../static/iview/cell-group/index",
+    "i-cell": "../../../static/iview/cell/index",
+    "van-dialog": "../../../static/vant/dialog/index"
+  }
+}

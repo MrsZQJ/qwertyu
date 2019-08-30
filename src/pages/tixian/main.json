@@ -1,0 +1,9 @@
+{
+    "navigationBarTitleText": "提现",
+    "usingComponents": {
+      "i-icon": "../../../static/iview/icon/index",
+      "van-popup": "../../../static/vant/popup/index",
+      "i-input": "../../../static/iview/input/index"
+    }
+  }
+  

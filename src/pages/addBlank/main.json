@@ -1,0 +1,11 @@
+{
+    "navigationBarTitleText": "银行卡管理",
+    "usingComponents": {
+      "i-cell-group": "../../../static/iview/cell-group/index",
+      "i-cell": "../../../static/iview/cell/index",
+      "i-input": "../../../static/iview/input/index",
+      "van-area": "../../../static/vant/area/index",
+      "van-popup": "../../../static/vant/popup/index"
+    }
+  }
+  
